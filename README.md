@@ -7,4 +7,12 @@
 - 팀원과 효율적인 협업을 위해 사용한 기술을 문서화하는 것을 좋아합니다.
 - 배운 것을 이해하고 기억하기 위해서 블로그에 글을 작성하며 학습하고 있습니다.
 
-<br></br>
+<br></br><br></br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/{github username}/{github username}/blob/output/github-contribution-grid-snake.svg"/>
+</div>
+
+<br></br><br></br>
