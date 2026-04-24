@@ -12,7 +12,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/{github username}/xmun74/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/xmun74/xmun74/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 
 <br></br><br></br>
