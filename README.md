@@ -1,5 +1,5 @@
 ### TaeGyeong Mun 문태경
-- Front-end Developer
+- Frontend Developer
 
 <br></br><br></br>
 
